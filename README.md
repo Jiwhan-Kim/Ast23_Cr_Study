@@ -32,7 +32,8 @@ You can install the tqdm with `pip install tqdm`
 ```git
 git clone https://github.com/Jiwhan-Kim/Ast23_Cr_Study.git
 ```
-You don't have to clone again if you have done once.
+
+You don't have to clone again if you have done once. <br />
 2. Pull the project. (To check the update)
 ```git
 git pull origin main
